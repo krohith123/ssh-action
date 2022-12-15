@@ -151,3 +151,4 @@ jobs:
     #     key: ${{ secrets.ID_ED25519 }}
     #     port: ${{ secrets.TUNNEL_PORT }}
     #     script: whoami.
+    #     oneline
